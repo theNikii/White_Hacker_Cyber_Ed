@@ -7,4 +7,33 @@
 2.1.6) 4a93a60b1c34fd11e4bac9920a14c00e
 2.1.7) fed80ff7bad5a9274385b7b7bc370635
 2.2) 76e008325662b32aa33af6c000721579
+2.3) Стенд не работает
+3)
+hostname 2e976b2863d0
+user root
+release 6.1.0-kali9-amd64
+version #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+cmdline ./pupyx64.qCfrfo.lin
+os_arch x86_64
+proc_arch 64 bit
+pid 69
+exec_path /usr/local/tomcat/pupyx64.qCfrfo.lin
+cid 00000000fcb2e0a6
+address 172.17.0.2
+macaddr 02:42:ac:11:00:02
+revision ?
+node 0242ac110002
+debug_logfile ?
+native True
+proxy wpad
+external_ip ?
+launcher connect
+launcher_args -t ssl --host 172.17.0.3:8443
+platform linux/amd64
+4) 612bf918827518347255bc3caf1625cf
+5) P@sSw0rd!
+6) f8404cc6244e930ced3ee0107aef968b
+7) fve7m3n68ffa7f1cd8c0ecmim8
+8)
+9)
 
